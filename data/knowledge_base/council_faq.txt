@@ -1,0 +1,35 @@
+CLUB COUNCIL - FREQUENTLY ASKED QUESTIONS FOR REVIEWERS
+Autumn Term 2026 (fictional document for a learning project)
+
+Q1. How are the 14 days in R-01 counted?
+Count calendar days from the submission date to the event date. A proposal submitted on 1 October for an event on 15 October has exactly 14 days and is acceptable.
+
+Q2. How are volunteers counted under R-15?
+Divide the expected attendance by 25 and round up. For 60 attendees the club needs 3 volunteers. For 20 attendees the answer is 1, but the minimum of 2 applies.
+
+Q3. How is the capacity limit in R-13 worked out?
+Take 80 percent of the venue capacity. The Library Hall holds 60, so at most 48 attendees are allowed. The Seminar Hall holds 120, so at most 96 are allowed.
+
+Q4. A proposal does not mention sponsors, guests, fees or food. Is that a problem?
+No. Assume there are none. Only rules that require a statement (R-02, R-06, R-12, R-14, R-22) can be broken by silence.
+
+Q5. A proposal has no faculty coordinator name, or says it will be decided later.
+This is a missing detail under R-02.
+
+Q6. How is the miscellaneous limit in R-08 checked?
+Divide the miscellaneous line by the total budget. Exactly 10 percent is allowed. Above 10 percent is a Minor issue.
+
+Q7. A proposal breaks several rules. What do we do?
+List every broken rule. The verdict follows the most severe one. Do not report the same problem under two different rules unless both rules really apply.
+
+Q8. When are posters a problem under R-21?
+Only when the proposal says the posters lack the required wording, or says they were put up before approval.
+
+Q9. What counts as a hazardous activity under R-16?
+Bonfires and other open flames, climbing or rope courses higher than 2 metres, any activity with motor vehicles, and any activity in or on water.
+
+Q10. Does an event that starts before an exam week and ends inside it break R-03?
+Yes. R-03 applies if any part of the event falls on an exam-week day.
+
+Q11. Should the reviewer judge whether the event is a good idea?
+No. The Council decides only using the rulebook. Do not add personal opinions about the topic, prizes or publicity.

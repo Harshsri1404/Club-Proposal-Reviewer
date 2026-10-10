@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Cached review results are kept in git only if you want to publish them:
+# remove the next line to commit your results/*.json files.
+results/*.json

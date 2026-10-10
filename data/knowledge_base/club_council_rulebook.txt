@@ -1,0 +1,71 @@
+BRIGHTVALE COLLEGE - CLUB COUNCIL EVENT APPROVAL RULEBOOK
+Autumn Term 2026 (fictional document for a learning project)
+
+The Club Council uses this rulebook to decide whether a club event can go ahead. Every rule has an ID, a severity and a short statement. All money amounts are in rupees.
+
+HOW A PROPOSAL IS DECIDED
+
+Severity levels:
+- Blocking: the event cannot be approved in its current form. The verdict is Reject.
+- Major: the event can be approved once the problem is fixed. The verdict is Needs changes.
+- Minor: a note for the club. It does not stop approval.
+
+The verdict follows the most severe broken rule. If any Blocking rule is broken, the verdict is Reject. Otherwise, if any Major rule is broken, the verdict is Needs changes. Otherwise the verdict is Approve, and any Minor issues are listed as notes.
+
+A rule counts as broken only when the proposal shows it. If a proposal does not mention a topic, do not assume a violation. The exception is rules that require the proposal to state something: R-02, R-06, R-12, R-14 and R-22. For these, a missing statement counts as a violation.
+
+SECTION 1 - SUBMISSION AND TIMING
+
+R-01 (Major) Notice period. A proposal must be submitted at least 14 days before the event date.
+
+R-02 (Major) Required details. Every proposal must state the event name, the club name, the date and time, the venue, the expected attendance, the total budget, and the name of the faculty coordinator.
+
+R-03 (Blocking) Exam weeks. No club event may take place during exam weeks. The exam weeks this term are 9 November to 20 November 2026, both days included.
+
+R-04 (Blocking) No Sunday events. Club events cannot be held on a Sunday.
+
+R-05 (Major) End times. An event must finish by 8 PM from Monday to Friday and by 6 PM on Saturday. An overnight event approved under R-17 is judged by its final end time.
+
+SECTION 2 - BUDGET AND MONEY
+
+R-06 (Major) Treasurer approval. If the total budget is from 15,001 to 40,000 rupees, the proposal must say that written approval from the Treasurer is attached.
+
+R-07 (Blocking) Budget ceiling. The Council cannot approve a total budget above 40,000 rupees. Such events must be sent to the Dean's office.
+
+R-08 (Minor) Itemised budget. The budget must be itemised. A line called miscellaneous must not be more than 10 percent of the total budget.
+
+R-09 (Major) Prize money. Prize money must not be more than 30 percent of the total budget.
+
+R-10 (Major) Entry fee. A club may charge at most 100 rupees per student. Any fee collected must be listed as income in the budget.
+
+R-11 (Major) Honorarium. A fee paid to an outside guest above 5,000 rupees needs written approval from the Treasurer, and the proposal must say so.
+
+SECTION 3 - VENUE AND CAPACITY
+
+R-12 (Major) Venue booking. Every venue must be booked through the helpdesk at least 7 days before the event. The proposal must state the booking status and the date the booking was confirmed or requested.
+
+R-13 (Major) Capacity. Expected attendance must not be more than 80 percent of the venue capacity. Venue capacities: Seminar Hall 120, Library Hall 60, Lab 3 40, Room M12 (Makerspace) 20, Open Air Theatre 300, Sports Ground 400, Auditorium 500.
+
+R-14 (Major) Labs and makerspace. Events in Lab 3 or Room M12 need a member of technical staff present, and every participant must have completed the makerspace safety introduction. The proposal must say how both will be met.
+
+SECTION 4 - SAFETY AND PEOPLE
+
+R-15 (Major) Volunteers. A club must name at least 1 volunteer for every 25 expected attendees, rounded up, and never fewer than 2 volunteers.
+
+R-16 (Major) Hazardous activities. Any activity involving fire, heights above 2 metres, motor vehicles or water needs written approval from the Safety Officer. The proposal must say that this approval has been obtained.
+
+R-17 (Major) Overnight events. An event that continues past midnight is an overnight event. It needs written permission from the Hostel Warden and at least two faculty supervisors present throughout.
+
+R-18 (Minor) Food. Any food served must include at least one vegetarian option. Food from outside caterers must come from a caterer whose food licence is on file with Student Affairs.
+
+SECTION 5 - SPONSORS AND GUESTS
+
+R-19 (Blocking) Prohibited sponsors. Sponsorship from tobacco, alcohol, or betting and gambling companies is not allowed.
+
+R-20 (Major) Outside guests. Every outside guest or speaker must be named in the proposal with their affiliation, and must be approved by the faculty coordinator.
+
+SECTION 6 - PUBLICITY AND REPORTING
+
+R-21 (Minor) Posters. Posters must show the club name and the line "Approved by the Club Council". Posters must not be put up before the event is approved.
+
+R-22 (Blocking) Post-event reports. A club must submit a report with the attendance count and expense receipts within 5 days after each event. A club whose report for its previous event is overdue cannot get a new event approved. The proposal must state the status of the previous report, or say that this is the club's first event this term.
